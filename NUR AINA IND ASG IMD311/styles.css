@@ -1,0 +1,25 @@
+body
+{
+background-image: url("image/bgimage.png");
+}
+
+h1,h2,h3,h4,h5
+{
+color: black;
+font-family: "comic sans ms";
+text-align: center;
+}
+p
+{
+color: #25393D;
+font-family: "times new roman";
+text-align: center;
+line-height: 1.5;
+font-size: 19px;
+}
+
+footer {
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+}
